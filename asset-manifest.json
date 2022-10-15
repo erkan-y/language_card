@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/erkan-y/language_card/static/css/main.9b7439d0.css",
+    "main.js": "/erkan-y/language_card/static/js/main.8b949448.js",
+    "static/media/python.png": "/erkan-y/language_card/static/media/python.40f1d1b14bc2113b7b05.png",
+    "static/media/go.png": "/erkan-y/language_card/static/media/go.26d6d02c30e0ab3dce15.png",
+    "static/media/react.svg": "/erkan-y/language_card/static/media/react.7b78f5c3c3acf6dd7722fd9c2f83c963.svg",
+    "static/media/cpp.png": "/erkan-y/language_card/static/media/cpp.24a8f93854ab092f17a7.png",
+    "static/media/php.png": "/erkan-y/language_card/static/media/php.c67d24b47808dc6611ed.png",
+    "static/media/java.png": "/erkan-y/language_card/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/javascript.png": "/erkan-y/language_card/static/media/javascript.9a8660c0ba114bdba499.png",
+    "static/media/html.png": "/erkan-y/language_card/static/media/html.6e5363d5de526dec4f8a.png",
+    "static/media/css.png": "/erkan-y/language_card/static/media/css.f7a3400b7f8ab145bb65.png",
+    "index.html": "/erkan-y/language_card/index.html",
+    "main.9b7439d0.css.map": "/erkan-y/language_card/static/css/main.9b7439d0.css.map",
+    "main.8b949448.js.map": "/erkan-y/language_card/static/js/main.8b949448.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b7439d0.css",
+    "static/js/main.8b949448.js"
+  ]
+}
